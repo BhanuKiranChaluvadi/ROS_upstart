@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>vecloc_eye_tribe</name>
+  <name>project_name</name>
   <version>0.1.0</version>
-  <description>vecloc_eye_tribe description</description>
+  <description>project description</description>
   <author>Bhanu kiran. Chaluvadi</author>
   <maintainer email="bc@todo.todo">bc</maintainer>
   <license>BSD</license>
